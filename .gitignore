@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env.local
+.venv/
+venv/
+tmp/
+.pytest_cache/
+KISISEL_SUNUM_NOTLARI.md
+backend/.env
+Yapay Zeka Mülakat Proje Ödevi.pdf
